@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there Im William
+<a href="https://linkedin.com/https://www.linkedin.com/in/william-holden-76b9a480/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--
 **wholden23/wholden23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
