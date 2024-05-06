@@ -6,7 +6,7 @@
 I am a student with a profound interest in CyberSecurity, with experiend in Network/Desktop Support, Protecting Organizations,people in IT
 
 Protecting assets and supporting users with hardware and software issues. I am motivated to excel in Cyber Security in the market today.
-
+## Objective
 Objective: Highly motivated and detail-oriented entry level Cybersecurity professional with a passion for protecting sensitive data and mitigating cyber threats
 
 - 🔭 I’m currently working on ...
