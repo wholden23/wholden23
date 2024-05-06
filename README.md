@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a student studying cybersecurity, with skills in technology, desktop and network support. I am dedicated to transition into this field, specifically hoping to join a Security Operations Center (SOC) as a tier 1 Analyst
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
