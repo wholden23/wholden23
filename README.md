@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a student studying cybersecurity, with skills in technology, desktop and network support. I am dedicated to transition into this field, specifically hoping to join a Security Operations Center (SOC) as a tier 1 Analyst
+I am a student studying cybersecurity, with skills in technology, desktop and network support. I am experienced in protecting assets, and time management skills.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
