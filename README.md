@@ -1,20 +1,14 @@
-### Hi there Im William
+# Hello, William
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**wholden23/wholden23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Brief Introduction - Remove this afterwards]
 
-I am a student with a profound interest in CyberSecurity, with experiend in Network/Desktop Support, Protecting Organizations,people in IT
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-Protecting assets and supporting users with hardware and software issues. I am motivated to excel in Cyber Security in the market today.
 ## Objective
-Objective: Highly motivated and detail-oriented entry level Cybersecurity professional with a passion for protecting sensitive data and mitigating cyber threats
+[Provide Objective - Remove this afterwards]]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Googel Cyber Security Certificate
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
